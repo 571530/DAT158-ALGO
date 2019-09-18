@@ -1,5 +1,3 @@
-Truls Martinsen, Heine Fjeldberg
-
 ## Problem 1
 text "aaabaadaabaaa"
 
@@ -18,7 +16,8 @@ pattern "aabaaa"
 
 ## Problem 2
 a)  
-|    c  |a|b|
+
+|c      |a|b|
 |-------|-|-|
 |last(c)|5|2|
 
@@ -115,10 +114,10 @@ suffixes
 
 
 ## Problem 5
-!["Standard trie"](./trie.png)
+!["Standard trie"](trie.PNG)
 
 ## Problem 6
-!["Compressed trie"](./compressed_trie.png)
+!["Compressed trie"](compressed_trie.PNG)
 
 ## Problem 7
 text = "dogs do not spot hot pots or cats"
@@ -138,7 +137,7 @@ text = "dogs do not spot hot pots or cats"
 |o|7|
 | |7|
 
-!["huffman tre"](./huffman.png)
+!["huffman tre"](huffman.PNG)
 
 
 ## Problem 8
